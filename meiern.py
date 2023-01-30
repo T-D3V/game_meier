@@ -1,4 +1,6 @@
-from game import Game
+from gamePlay import GamePlay
+from cup import Cup, RealCup, MockCup
+from meierNumbers import MeierNumbers
 
 def main():
   pass
